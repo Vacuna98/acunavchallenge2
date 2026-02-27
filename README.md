@@ -35,6 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+
+# Vanessa Acuna
+## Challenge 2: Influential Person
 ## Peer Review from Daniel Herrera:
 
 I like your website and your influential figure! I only know him from the superbowl halftime show and from by little sister who also likes Bad Bunny's work! I have some notes for you to improve your website and please feel free to ask me for help or clarification!
