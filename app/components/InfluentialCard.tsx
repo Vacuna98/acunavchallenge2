@@ -23,9 +23,9 @@ const InfluentialCard = () => {
           <AccordionTitle className="text-2xl font-semibold text-black bg-pink-600!">
             What does it take for someone to be considered influential to me?
           </AccordionTitle>
-          <AccordionContent>
-            <div className="bg-white px-8 py-10">
-              <p className="mb-2 text-black">
+          <AccordionContent className="bg-white!">
+            <div className="px-8 py-10">
+              <p className="mb-2 text-black text-2xl">
                 Influential people combine emotional intelligence, proactive
                 behavior, and strong communication to impact others. They build
                 deep, trusting relationships, welcome diverse opinions, and

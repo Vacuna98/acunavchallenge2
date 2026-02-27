@@ -7,17 +7,17 @@ import React from 'react'
 const NavLink = () => {
   return (
 
-      <Navbar fluid rounded className="bg-pink-600!">
+      <Navbar fluid rounded className="bg-pink-600! text-white!">
           <NavbarBrand>
             <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Influential Person</span>
           </NavbarBrand>
           <NavbarToggle />
-          <NavbarCollapse>
+          <NavbarCollapse className="text-white!">
           
-            <NavbarLink href="/">Home</NavbarLink>
-            <NavbarLink href="/pages/who">Who</NavbarLink>
-            <NavbarLink href="/pages/about">About</NavbarLink>
-            <NavbarLink href="/pages/impact">Impact</NavbarLink>
+            <NavbarLink className="text-white" href="/">Home</NavbarLink>
+            <NavbarLink className="text-white" href="/pages/who">Who</NavbarLink>
+            <NavbarLink className="text-white" href="/pages/about">About</NavbarLink>
+            <NavbarLink className="text-white" href="/pages/impact">Impact</NavbarLink>
           </NavbarCollapse>
         </Navbar>
   )

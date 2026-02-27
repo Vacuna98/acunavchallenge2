@@ -16,7 +16,7 @@ const AccordionCard = ({question, answer} : AccordionCardProps) => {
       <AccordionPanel>
         <AccordionTitle className="text-white! text-3xl text-center">{question}</AccordionTitle>
 
-        <AccordionContent className="bg-white!">
+        <AccordionContent className="bg-white! border-none">
           <p className="mb-2 text-black ">
             {answer}
           </p>

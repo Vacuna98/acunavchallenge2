@@ -24,7 +24,7 @@ const page = () => {
         <NavLink/>
 
 
-        <h1 className="text-white text-5xl font-bold flex item-center justify-center mt-10 mb-10">This is who is influential to me!🤍</h1>
+        <h1 className="text-white text-5xl font-bold flex item-center justify-center mt-10 mb-10 p-3">This is who is influential to me!🤍</h1>
 
 
         <WhoCard/>
